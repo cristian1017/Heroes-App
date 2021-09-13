@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/Heroes-App/static/js/main.9ed08e69.chunk.js",
+    "main.js.map": "/Heroes-App/static/js/main.9ed08e69.chunk.js.map",
+    "runtime-main.js": "/Heroes-App/static/js/runtime-main.ef24c390.js",
+    "runtime-main.js.map": "/Heroes-App/static/js/runtime-main.ef24c390.js.map",
+    "static/js/2.9725af40.chunk.js": "/Heroes-App/static/js/2.9725af40.chunk.js",
+    "static/js/2.9725af40.chunk.js.map": "/Heroes-App/static/js/2.9725af40.chunk.js.map",
+    "index.html": "/Heroes-App/index.html",
+    "static/js/2.9725af40.chunk.js.LICENSE.txt": "/Heroes-App/static/js/2.9725af40.chunk.js.LICENSE.txt",
+    "static/media/dc-arrow.jpg": "/Heroes-App/static/media/dc-arrow.15b27bc2.jpg",
+    "static/media/dc-batman.jpg": "/Heroes-App/static/media/dc-batman.ab9eadc3.jpg",
+    "static/media/dc-black.jpg": "/Heroes-App/static/media/dc-black.3747c663.jpg",
+    "static/media/dc-blue.jpg": "/Heroes-App/static/media/dc-blue.cc8169a3.jpg",
+    "static/media/dc-flash.jpg": "/Heroes-App/static/media/dc-flash.b3922f25.jpg",
+    "static/media/dc-green.jpg": "/Heroes-App/static/media/dc-green.01c54ee1.jpg",
+    "static/media/dc-martian.jpg": "/Heroes-App/static/media/dc-martian.78565f7d.jpg",
+    "static/media/dc-robin.jpg": "/Heroes-App/static/media/dc-robin.ea4afe99.jpg",
+    "static/media/dc-superman.jpg": "/Heroes-App/static/media/dc-superman.e9391474.jpg",
+    "static/media/dc-wonder.jpg": "/Heroes-App/static/media/dc-wonder.970ba2d6.jpg",
+    "static/media/marvel-captain.jpg": "/Heroes-App/static/media/marvel-captain.d2c7774d.jpg",
+    "static/media/marvel-cyclops.jpg": "/Heroes-App/static/media/marvel-cyclops.f1442408.jpg",
+    "static/media/marvel-daredevil.jpg": "/Heroes-App/static/media/marvel-daredevil.2f4f1a57.jpg",
+    "static/media/marvel-hawkeye.jpg": "/Heroes-App/static/media/marvel-hawkeye.1f78e874.jpg",
+    "static/media/marvel-hulk.jpg": "/Heroes-App/static/media/marvel-hulk.d1af5fe5.jpg",
+    "static/media/marvel-iron.jpg": "/Heroes-App/static/media/marvel-iron.b394df11.jpg",
+    "static/media/marvel-silver.jpg": "/Heroes-App/static/media/marvel-silver.1d43a08b.jpg",
+    "static/media/marvel-spider.jpg": "/Heroes-App/static/media/marvel-spider.054016b4.jpg",
+    "static/media/marvel-thor.jpg": "/Heroes-App/static/media/marvel-thor.c63e651c.jpg",
+    "static/media/marvel-wolverine.jpg": "/Heroes-App/static/media/marvel-wolverine.ee676488.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef24c390.js",
+    "static/js/2.9725af40.chunk.js",
+    "static/js/main.9ed08e69.chunk.js"
+  ]
+}
