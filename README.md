@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Heroes APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto esta deployado en(https://cristian1017.github.io/Heroes-App/).
 
 ## Available Scripts
 
